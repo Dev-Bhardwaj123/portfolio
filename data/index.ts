@@ -13,7 +13,7 @@ export const navItems = [
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
       titleClassName: "justify-end",
-      img: "/b1.svg",
+      img: "b1.svg",
       spareImg: "",
     },
     {
@@ -155,39 +155,6 @@ export const navItems = [
     
   ];
 
-  export const testimonials = [
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-  ];
-  
   export const companies = [
     {
       id: 1,
@@ -220,39 +187,7 @@ export const navItems = [
       nameImg: "/dockerName.svg",
     },
   ];
-  
-  export const workExperience = [
-    {
-      id: 1,
-      title: "Website Developer",
-      desc: "Working on client projects, developing websites and bots that enhanced user experience and functionality by designing intuitive, user-friendly interfaces.",
-      className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
-    },
-    {
-      id: 3,
-      title: "Operations Interns",
-      desc: "Managing daily operations of cohort-based programs by optimizing processes, analyzing performance data, and collaborating with leadership to enhance program efficiency and participant support.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp3.svg",
-    },
-    {
-      id: 2,
-      title: "Content Problem Reviewer and Solution Author - Leetcode",
-      desc: "Oversaw a quality control initiative for LeetCode problems, revising 120 problem statements and examples.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
-    },
     
-    {
-      id: 2,
-      title: "Technical Head - Apna College LPU",
-      desc: "Directing the technical team in developing and implementing innovative solutions for the Apna College LPU club.",
-      className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
-    },
-  ];
-  
   export const socialMedia = [
     {
       id: 1,
