@@ -1,9 +1,9 @@
 import Hero from "@/components/Hero";
 import Grid from "@/components/Grid";
 import RecentProjects from "@/components/RecentProjects";
-import Articles from "@/components/Articles";
+// import Articles from "@/components/Articles";
 // import Clients from "@/components/Clients";
-import Experience from "@/components/Experience";
+// import Experience from "@/components/Experience";
 import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
 import { FloatingNav } from "@/components/ui/FloatingNav";
